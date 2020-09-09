@@ -16,10 +16,6 @@ export default {
 }
 </script>
 
-<style lang='scss' scoped>
-@import "~assets/color.scss";
-body{
-    background-image: url("~assets/home.png");
-    background-size: cover;
-}
+<style lang='scss'>
+
 </style>
